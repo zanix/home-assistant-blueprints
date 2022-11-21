@@ -2,7 +2,8 @@
 
 | zanix/home-assistant-blueprints | Home Assistant Community |
 | :---: | :---: |
-| [![Github Linter Status][github-linter-status-shield]][github-linter-status] [![Last Commit][github-last-commit]][github-master] [![GitHub Activity][commits-shield]][commits] [![Lines of Code][code-lines-shield]][code-link] | [![Home Assistant Community Forum][forum-shield]][forum] [![Discord][discord-shield]][discord] |
+| [![Github Linter Status][github-linter-status-shield]][github-linter-status] [![Lines of Code][code-lines-shield]][code-link] | [![Home Assistant Community Forum][forum-shield]][forum] |
+| [![Last Commit][github-last-commit]][github-master] [![GitHub Activity][commits-shield]][commits] | [![Discord][discord-shield]][discord] |
 
 ## Current Blueprints
 
