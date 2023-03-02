@@ -22,7 +22,7 @@ Set LED effects for Inovelli VZM31-SN Blue Series 2-1 Switches
 
 **All files are edited with [Visual Studio Code](https://code.visualstudio.com).**
 
-[github-linter-status-shield]: https://img.shields.io/github/workflow/status/zanix/home-assistant-blueprints/linters/master?style=flat-square&label=linters&logo=github-actions&logoColor=838B95
+[github-linter-status-shield]: https://img.shields.io/github/actions/workflow/status/zanix/home-assistant-blueprints/linters.yaml?branch=master&style=flat-square&label=linters&logo=github-actions&logoColor=838B95
 [github-linter-status]: https://github.com/zanix/home-assistant-blueprints/actions/workflows/linters.yaml
 
 [github-last-commit]: https://img.shields.io/github/last-commit/zanix/home-assistant-blueprints/master?style=flat-square&logo=github&logoColor=838B95
