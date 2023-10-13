@@ -3,7 +3,7 @@
 | zanix/home-assistant-blueprints | Home Assistant Community |
 | :---: | :---: |
 | [![Github Linter Status][github-linter-status-shield]][github-linter-status] [![Lines of Code][code-lines-shield]][code-link] | [![Home Assistant Community Forum][forum-shield]][forum] |
-| [![Last Commit][github-last-commit]][github-master] [![GitHub Activity][commits-shield]][commits] | [![Discord][discord-shield]][discord] |
+| [![Last Commit][github-last-commit]][github-main] [![GitHub Activity][commits-shield]][commits] | [![Discord][discord-shield]][discord] |
 
 ## Current Blueprints
 
@@ -14,22 +14,22 @@
 Set LED effects for Inovelli VZM31-SN Blue Series 2-1 Switches
 
 [Forum](https://community.home-assistant.io/t/z2m-inovelli-vzm31-sn-blue-series-2-1-switch-led-notification-script/489620)
- | [YAML](https://github.com/zanix/home-assistant-blueprints/blob/master/script/inovelli_blue_led_zigbee2mqtt.yaml)
+ | [YAML](https://github.com/zanix/home-assistant-blueprints/blob/main/script/inovelli_blue_led_zigbee2mqtt.yaml)
 
-[![Import Blueprint][blueprint-import]](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fzanix%2Fhome-assistant-blueprints%2Fblob%2Fmaster%2Fscript%2Finovelli_blue_led_zigbee2mqtt.yaml)
+[![Import Blueprint][blueprint-import]](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fzanix%2Fhome-assistant-blueprints%2Fblob%2Fmain%2Fscript%2Finovelli_blue_led_zigbee2mqtt.yaml)
 
 ---
 
 **All files are edited with [Visual Studio Code](https://code.visualstudio.com).**
 
-[github-linter-status-shield]: https://img.shields.io/github/actions/workflow/status/zanix/home-assistant-blueprints/linters.yaml?branch=master&style=flat-square&label=linters&logo=github-actions&logoColor=838B95
+[github-linter-status-shield]: https://img.shields.io/github/actions/workflow/status/zanix/home-assistant-blueprints/linters.yaml?branch=main&style=flat-square&label=linters&logo=github-actions&logoColor=838B95
 [github-linter-status]: https://github.com/zanix/home-assistant-blueprints/actions/workflows/linters.yaml
 
-[github-last-commit]: https://img.shields.io/github/last-commit/zanix/home-assistant-blueprints/master?style=flat-square&logo=github&logoColor=838B95
-[github-master]: https://github.com/zanix/home-assistant-blueprints/commits/master
+[github-last-commit]: https://img.shields.io/github/last-commit/zanix/home-assistant-blueprints/main?style=flat-square&logo=github&logoColor=838B95
+[github-main]: https://github.com/zanix/home-assistant-blueprints/commits/main
 
-[commits-shield]: https://img.shields.io/github/commit-activity/m/zanix/home-assistant-blueprints/master?style=flat-square&logo=github&logoColor=838B95
-[commits]: https://github.com/zanix/home-assistant-blueprints/commits/master
+[commits-shield]: https://img.shields.io/github/commit-activity/m/zanix/home-assistant-blueprints/main?style=flat-square&logo=github&logoColor=838B95
+[commits]: https://github.com/zanix/home-assistant-blueprints/commits/main
 
 [code-lines-shield]: https://img.shields.io/tokei/lines/github/zanix/home-assistant-blueprints?style=flat-square
 [code-link]: https://github.com/zanix/home-assistant-blueprints/pulse
