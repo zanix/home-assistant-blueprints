@@ -1,7 +1,7 @@
 blueprint:
   name: "Inovelli Blue LED (Zigbee2MQTT)"
   description: |
-    Set LED effects for Inovelli VZM31-SN Blue Series 2-1 Switches using Zigbee2MQTT.
+    Set LED effects for Inovelli Blue Series Switches using Zigbee2MQTT.
 
     Features:
 
@@ -10,6 +10,11 @@ blueprint:
     - LED Number, Color, Effect, and Duration can accept direct values or the “friendly name” listed in the dropdown
     - Debug info to diagnose issues
       - Warning: Debug mode will create a persistent message for every entity called in the script plus 1
+
+    Supported Models:
+
+    - Inovelli 2-in-1 switch + dimmer (VZM31-SN)
+    - Inovelli Fan Controller (VZM35-SN)
 
     Forum: https://community.home-assistant.io/t/z2m-inovelli-vzm31-sn-blue-series-2-1-switch-led-notification-script/489620
 
