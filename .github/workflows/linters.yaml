@@ -1,5 +1,5 @@
 ---
-## Source: https://github.com/frenck/home-assistant-config/tree/master/.github/workflows
+## Source: https://github.com/frenck/home-assistant-config/tree/main/.github/workflows
 name: linters
 # yamllint disable-line rule:truthy
 on:

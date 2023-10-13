@@ -17,7 +17,7 @@ blueprint:
 
     ℹ️ Version: 2023.10.1
   domain: script
-  source_url: https://github.com/zanix/home-assistant-blueprints/blob/master/script/inovelli_blue_led_zigbee2mqtt.yaml
+  source_url: https://github.com/zanix/home-assistant-blueprints/blob/main/script/inovelli_blue_led_zigbee2mqtt.yaml
 
 fields:
   target:
