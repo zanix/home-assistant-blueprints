@@ -2,8 +2,8 @@
 
 | zanix/home-assistant-blueprints | Home Assistant Community |
 | :---: | :---: |
-| [![Github Linter Status][github-linter-status-shield]][github-linter-status] [![Lines of Code][code-lines-shield]][code-link] | [![Home Assistant Community Forum][forum-shield]][forum] |
-| [![Last Commit][github-last-commit]][github-main] [![GitHub Activity][commits-shield]][commits] | [![Discord][discord-shield]][discord] |
+| [![Last Commit][github-last-commit]][github-main] [![Github Linter Status][github-linter-status-shield]][github-linter-status] | [![Home Assistant Community Forum][forum-shield]][forum] |
+| [![GitHub Activity][commits-shield]][commits] | [![Discord][discord-shield]][discord] |
 
 ## Current Blueprints
 
@@ -30,9 +30,6 @@ Set LED effects for Inovelli VZM31-SN Blue Series 2-1 Switches
 
 [commits-shield]: https://img.shields.io/github/commit-activity/m/zanix/home-assistant-blueprints/main?style=flat-square&logo=github&logoColor=838B95
 [commits]: https://github.com/zanix/home-assistant-blueprints/commits/main
-
-[code-lines-shield]: https://img.shields.io/tokei/lines/github/zanix/home-assistant-blueprints?style=flat-square
-[code-link]: https://github.com/zanix/home-assistant-blueprints/pulse
 
 [forum-shield]: https://img.shields.io/discourse/topics?style=flat-square&label=community&logo=discourse&color=46B4ED&logoColor=46B4ED&server=https%3A%2F%2Fcommunity.home-assistant.io
 [forum]: https://community.home-assistant.io

@@ -1,23 +1,26 @@
 ---
-## Source: https://github.com/frenck/home-assistant-config/tree/main/.github/workflows
+# Source: https://github.com/frenck/action-home-assistant
+#
 name: linters
 # yamllint disable-line rule:truthy
 on:
   - push
 jobs:
   yamllint:
+    name: 🧹 YAML Lint
     runs-on: ubuntu-latest
     steps:
-      - name: ⤵️ Check out configuration from GitHub
-        uses: actions/checkout@v3
+      - name: 📥 Check out repository
+        uses: actions/checkout@v4.1.1
       - name: 🚀 Run YAMLlint
-        uses: frenck/action-yamllint@v1.3
+        uses: frenck/action-yamllint@v1.4.1
 
   remarklint:
+    name: 🧹 Remark Lint
     runs-on: ubuntu-latest
     steps:
-      - name: ⤵️ Check out configuration from GitHub
-        uses: actions/checkout@v3
+      - name: 📥 Check out repository
+        uses: actions/checkout@v4.1.1
       - name: 🚀 Run Remark lint
         uses: "docker://pipelinecomponents/remark-lint:latest"
         continue-on-error: true
