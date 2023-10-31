@@ -20,7 +20,7 @@ blueprint:
 
     GitHub: https://github.com/zanix/home-assistant-blueprints
 
-    ℹ️ Version: 2023.10.1
+    ℹ️ Version: 2023.10.2
   domain: script
   source_url: https://github.com/zanix/home-assistant-blueprints/blob/main/script/inovelli_blue_led_zigbee2mqtt.yaml
 
@@ -199,8 +199,8 @@ variables:
     - light
     - fan
   models:
-    - Inovelli 2-in-1 switch + dimmer (VZM31-SN)
-    - Inovelli Fan Controller (VZM35-SN)
+    - VZM31-SN
+    - VZM35-SN
 
   # Create a list of provided targets (areas, devices, entities)
   target: '{{ target|default([])|map(lower) }}'
