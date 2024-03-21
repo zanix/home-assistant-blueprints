@@ -20,10 +20,10 @@ Set LED effects for Inovelli VZM31-SN Blue Series 2-1 Switches
 
 ## Thanks
 
-- @brianhanifin ([HA Profile](https://community.home-assistant.io/u/brianhanifin)) - Original "Inovelli Z-Wave Red Series Notification LED" script
-- @kschlichter ([HA Profile](https://community.home-assistant.io/u/kschlichter)) - Logic for multiple areas, devices, and entities
-- @romamix ([HA Profile](https://community.home-assistant.io/u/romamix)) - Idea to override MQTT command path
-- @dmoralesdev ([HA Profile](https://community.home-assistant.io/u/diegomorales17)) - Loop optimization ideas
+- [@brianhanifin](https://github.com/brianhanifin) ([HA Profile](https://community.home-assistant.io/u/brianhanifin)) - Original "Inovelli Z-Wave Red Series Notification LED" script
+- [@kschlichter](https://github.com/kschlichter) ([HA Profile](https://community.home-assistant.io/u/kschlichter)) - Logic for multiple areas, devices, and entities
+- [@romamix](https://github.com/romamix) ([HA Profile](https://community.home-assistant.io/u/romamix)) - Idea to override MQTT command path
+- [@dmoralesdev](https://github.com/dmoralesdev) ([HA Profile](https://community.home-assistant.io/u/diegomorales17)) - Loop optimization ideas
 
 ---
 
