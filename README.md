@@ -18,6 +18,13 @@ Set LED effects for Inovelli VZM31-SN Blue Series 2-1 Switches
 
 [![Import Blueprint][blueprint-import]](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fzanix%2Fhome-assistant-blueprints%2Fblob%2Fmain%2Fscript%2Finovelli_blue_led_zigbee2mqtt.yaml)
 
+## Thanks
+
+- @brianhanifin ([HA Profile](https://community.home-assistant.io/u/brianhanifin)) - Original "Inovelli Z-Wave Red Series Notification LED" script
+- @kschlichter ([HA Profile](https://community.home-assistant.io/u/kschlichter)) - Logic for multiple areas, devices, and entities
+- @romamix ([HA Profile](https://community.home-assistant.io/u/romamix)) - Idea to override MQTT command path
+- @dmoralesdev ([HA Profile](https://community.home-assistant.io/u/diegomorales17)) - Loop optimization ideas
+
 ---
 
 **All files are edited with [Visual Studio Code](https://code.visualstudio.com).**
