@@ -11,16 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4
       - name: 🚀 Run YAMLlint
-        uses: frenck/action-yamllint@v1.4.1
+        uses: frenck/action-yamllint@v1
 
   remarklint:
     name: 🧹 Remark Lint
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4
       - name: 🚀 Run Remark lint
         uses: "docker://pipelinecomponents/remark-lint:latest"
         continue-on-error: true
