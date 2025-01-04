@@ -26,7 +26,7 @@ blueprint:
 
     ## Using this Blueprint
 
-    See [Using the Blueprint](https://community.home-assistant.io/t/z2m-inovelli-blue-series-switch-led-notification-script-vzm31-sn-vzm35-sn/489620#using-the-blueprint-13) in the forum topic.
+    See [Using the Script](https://community.home-assistant.io/t/z2m-inovelli-blue-series-switch-led-notification-script-vzm31-sn-vzm35-sn/489620#using-the-script-17) in the forum topic.
 
     > The main idea is you set the LED values when you call the script, the inputs below are for default values.
 
