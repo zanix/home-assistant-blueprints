@@ -3,7 +3,7 @@ blueprint:
   description: |
     Set LED effects for Inovelli Blue Series Switches using Zigbee2MQTT.
 
-    ℹ️ Version: 2025.7.0b
+    ℹ️ Version: 2025.8.0
 
     To update this blueprint, read [Re-importing a blueprint](https://www.home-assistant.io/docs/automation/using_blueprints/#re-importing-a-blueprint)
 
@@ -17,7 +17,9 @@ blueprint:
 
     ✅ Supported Models:
 
+    - Inovelli Blue Series On/Off Switch (VZM30-SN)
     - Inovelli 2-in-1 switch + dimmer (VZM31-SN)
+    - Inovelli mmWave Zigbee Dimmer (VZM32-SN)
     - Inovelli Fan Controller (VZM35-SN)
 
     💬 Forum: https://community.home-assistant.io/t/z2m-inovelli-blue-series-switch-led-notification-script-vzm31-sn-vzm35-sn/489620
@@ -244,11 +246,16 @@ variables:
   # Domains and models to filter in the target entities.
   domains:
     - light
+    - switch
     - fan
   models:
+    - VZM30-SN
+    - On/off switch
     - VZM31-SN
-    - VZM35-SN
     - 2-in-1 switch + dimmer
+    - VZM32-SN
+    - mmWave Zigbee Dimmer
+    - VZM35-SN
     - Fan controller
 
   # Create a list of provided targets (floors, areas, labels, devices, entities)
