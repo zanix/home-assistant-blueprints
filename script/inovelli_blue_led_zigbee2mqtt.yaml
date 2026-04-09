@@ -3,7 +3,7 @@ blueprint:
   description: |
     Set LED effects for Inovelli Blue Series Switches using Zigbee2MQTT.
 
-    ℹ️ Version: 2026.4.0-a
+    ℹ️ Version: 2026.4.0
 
     To update this blueprint, read [Re-importing a blueprint](https://www.home-assistant.io/docs/automation/using_blueprints/#re-importing-a-blueprint)
 
